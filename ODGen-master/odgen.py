@@ -10,5 +10,6 @@ if __name__ == '__main__':
     # args = parse_args()
     opg = OPGen()
     opg.run()
+    a=1
     #print(G.op_cnt)
 
